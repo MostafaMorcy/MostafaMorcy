@@ -1,4 +1,4 @@
-
+![logo](https://github.com/MostafaMorcy/MostafaMorcy/blob/main/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Mostafa Mahmoud</h1>
 <h3 align="center">Full Stack Software Engineer | JavaScript | React | Angular| Node.js | SQL | MongoDB</h3>
